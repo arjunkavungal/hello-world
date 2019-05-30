@@ -7,4 +7,4 @@ Requirements
 ---|---
 l1 | 1
 l2 | 2
-Visit ocw.mit.edu
+Visit https://ocw.mit.edu
