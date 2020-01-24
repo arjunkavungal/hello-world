@@ -1,0 +1,6 @@
+eye_color1 = input("What is the first eye color")
+eye_color2 = input("What is the second eye color")
+if (eye_color1 == 'blue' and eye_color2 == 'blue'):
+  print("Kids eye color is blue")
+else:
+  print("Kids eye color is brown")
