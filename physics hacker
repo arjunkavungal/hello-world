@@ -1,0 +1,9 @@
+t = 0
+g = 9.8
+v = 0
+def x(t):
+  return 100 - (v*t +.5*g*t**2)
+for i in range(100):
+  if (x(t) > 0):
+    print(x(t))
+    t += 1
