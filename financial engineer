@@ -1,0 +1,7 @@
+from sklearn import tree
+net_worth = int(input("wtr is net worth"))
+features = [[1000000],[2000000],[500000],[200000]]
+labels = ['prodigy','prodigy','civilian','civilian']
+clf = tree.DecisionTreeClassifier()
+clf = clf.fit(features,labels)
+print(clf.predict([[net_worth]]))
