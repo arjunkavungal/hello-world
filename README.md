@@ -12,3 +12,4 @@ l2 | 2
 Visit https://ocw.mit.edu
 # our story
 A coder coded because he found out about code.org before other people did. 
+Open source math degree coming soon.
