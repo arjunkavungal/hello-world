@@ -15,7 +15,7 @@ A coder coded because he found out about code.org before other people did.
 # open source math degree
 single variable calculus
 multivariable calculus
-linear algebra
+linear algebra: edx ut austin
 discrete mathematics
 differential equations
 bridge to higher mathematics
