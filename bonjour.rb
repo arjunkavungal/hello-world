@@ -1,0 +1,1 @@
+puts("Everybody loves pax")
