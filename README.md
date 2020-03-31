@@ -1,9 +1,6 @@
 # hello-world
-First repository
 I am a coder. I make $100,000 a year. You need a coder who can replace financial consultants.
-Hi Humans 
 # Requirements
-40-30-50
 Requirements
 ---|---
 l1 | 1
