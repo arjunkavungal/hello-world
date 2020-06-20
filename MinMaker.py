@@ -1,4 +1,6 @@
 print("127")
+print("MinMaker starting up")
+print("I will turn you into a pax0r that will make hridoy")
 eggs = int(input("Qantes hueves hoi"))
 vodque = int(input("Qantes vodques"))
 no2 = int(input("Qantes bareles"))
